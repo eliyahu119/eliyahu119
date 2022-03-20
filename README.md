@@ -1,7 +1,17 @@
 ﻿# eliyahu119
+ 
+ A software developer with 3+ years of experience, loves to help, problem solver, "out of the box" thinker, a people's person, mostly self-taught, good with numbers,
+loves to read, and an outer-space geek.  
 
-A software developer with 3+ years of experience, loves to help, problem solver, "out of the box"                                      thinker, a people's person, mostly self-taught, good with numbers,
-loves to read, and an outer-space geek. 
+![Alt Text](https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif)
+
+
+
+
+
+                                                                 
+                                                                 
+                                                                                        
 
 
 ### contact me 
@@ -12,3 +22,4 @@ loves to read, and an outer-space geek.
 <a href="https://www.linkedin.com/in/eliyahu-levi-a9654b1b3/" target="_blank"><img src="https://raw.githubusercontent.com/eliyahu119/eliyahu119/master/contain/in.png" alt="LinkedIn" width="30" height="30"></a>
 <a href="https://github.com/eliyahu119" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/git.png" alt="GitHub" width="30" height="30" ></a>
 <a href="https://github.com/eliyahu119" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/www.png" alt="Website" width="30" height="30"></a>
+                                            
